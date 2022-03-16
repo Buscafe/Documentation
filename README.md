@@ -21,6 +21,6 @@ Para saber mais sobre o projeto, como ele foi idealizado e como foi desenvolvido
 ### Linkedin dos desenvolvedores: 
 - https://www.linkedin.com/in/gabriellimadev/
 - https://www.linkedin.com/in/igor-costa-braz-2ab822208/
-- https://www.linkedin.com/in/kaike-rocha-565829210/
+- https://www.linkedin.com/in/kaikerocha/
 - https://www.linkedin.com/in/luis-fernando-pedro-bom-pereira-1b4821210/
-- https://www.linkedin.com/in/marlom-raul-129340210/
+- https://www.linkedin.com/in/marlom-romero/
